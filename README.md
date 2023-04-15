@@ -9,3 +9,5 @@ El bot no siempre está disponible, si quieres forzarlo a correr, sigue los sigu
 3. Prueba el bot de nuevo
 
 Y ta-chán, tienes un chatbot listo para probar
+
+t.me/testforanewbot
