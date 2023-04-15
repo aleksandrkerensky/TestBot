@@ -6,4 +6,9 @@ bot = telebot.TeleBot("6245178048:AAFecsyw8XrPYbjAZsTzLfO7WMU5rw1lDEY")
 def enviar(message):
     bot.reply_to(message,"hola, soy TestBot")
 
+@bot.message_handler(func=lambda message:True)
+
+def mensaje(message):
+    bot.reply_to(message, message.text)
+
 bot.polling()
