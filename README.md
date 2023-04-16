@@ -1,7 +1,7 @@
 # ImitaBot
 Un chatbot de telegram sencillo, imita los mensajes que uno envía
 
-![alt text](https://i.imgur.com/NMEs2sK.png)
+![alt text](https://i.imgur.com/WM5wXol.png)
 
 El bot no siempre está disponible, si quieres forzarlo a correr, sigue los siguientes pasos
 
