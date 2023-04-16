@@ -1,6 +1,8 @@
 # ImitaBot
 Un chatbot de telegram sencillo, imita los mensajes que uno envía
 
+![alt text](https://i.imgur.com/NMEs2sK.png)
+
 El bot no siempre está disponible, si quieres forzarlo a correr, sigue los siguientes pasos
 
 1. Asegúrate de tener Python instalado en tu PC, puedes obtenerlo en python.org/downloads
